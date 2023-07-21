@@ -1,0 +1,4 @@
+compile:
+	javac -d bin source/*.java
+run:
+	java -classpath bin driver
